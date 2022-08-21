@@ -1,0 +1,20 @@
+div{
+    margin: auto;
+    padding: 60px;
+    border-top: solid;
+    border-left: solid;}
+
+div>span {
+    border: solid black;
+    padding: 15px;
+    font-weight: bolder;
+}
+
+span:nth-child(even){ background-color: blue;}
+span:nth-child(odd){ background-color: red;}
+
+#seven{color: white;}
+
+
+
+

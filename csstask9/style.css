@@ -1,6 +1,10 @@
-  p{ color: white;
+  p{ color: rgb(255, 255, 255);
     margin: auto;
-    padding: 200px;
+    padding: 400px;
+    width: 100%;
+    position: relative;
   }
+  a {position: absolute;
+  top: 5px; left: 20px;}
   
 

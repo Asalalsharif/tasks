@@ -1,0 +1,6 @@
+span{color: white;
+    border: solid black;}
+
+.box_1{position: static;}
+.box_2{position: relative;
+top: 15px;}

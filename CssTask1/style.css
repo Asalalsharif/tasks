@@ -1,0 +1,20 @@
+body{background-color: azure;}
+.news1 {
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 2px 4px}
+
+.heading
+{
+    background-color: white;
+    border: 5px dotted red;
+    padding: 10px;
+    margin: 10px;
+    color: red;
+    box-shadow: 2px 4px;
+    }
+
+    span {background-color: orange;}
+    a {background-color: yellow;}
